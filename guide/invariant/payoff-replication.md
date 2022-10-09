@@ -10,5 +10,5 @@ So even if there is no on-chain market for covered calls or other types of exoti
 
 Unfortunately, **AMMs can only replicate concave payoffs without leverage.** So the type of derivatives that are replicable as an AMM is limited. In theory, if the payoff of a Uniswap LP share is a short option, then by lending it out, the payoff gets inverted to a long option on the underlying assets.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

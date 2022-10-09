@@ -4,6 +4,10 @@
 
 Numoen is the world's first permissionless options exchange. Enabling the automated liquidity provisioning and exchange of perpetual options directly on a blockchain. As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.&#x20;
 
+
+
+<figure><img src=".gitbook/assets/Group 63.png" alt=""><figcaption></figcaption></figure>
+
 ## FAQ
 
 Check the Frequently Asked Questions (FAQ) section for answers to the most common questions and insights on key features.
