@@ -6,4 +6,4 @@ Constant Function Market Makers (CFMMs) are a subclass of Automated Market Maker
 The trading function for Numoen is as follows $$\varphi({R_1},{R_2}) = R_{1}-\left(p_{1}+\frac{-1}{2}R_{2}\right)^{2}$$
 {% endhint %}
 
-In effect the invariant produces a statically replicate curve on a concentrated constant product curve.&#x20;
+In effect the invariant produces a payoff referred to as a capped power. This can be statically replicated curve on a constant product curve within a bounded space.

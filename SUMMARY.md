@@ -12,7 +12,7 @@
 
 * [Interest Rate](guide/interest-rate.md)
 * [Invariant](guide/invariant/README.md)
-  * [Payoff Replication](guide/invariant/payoff-replication.md)
+  * [Payoff Replication](guide/payoff-replication.md)
 * [Providing Liquidity](guide/providing-liquidity/README.md)
   * [Receipt Tokens](guide/providing-liquidity/receipt-tokens.md)
 * [Perpetual Options](guide/perpetual-options/README.md)
