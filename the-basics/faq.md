@@ -1,8 +1,8 @@
 # FAQ
 
-## What is an Automted Market Maker?
+## What is an Automted Market Maker (AMM)?
 
-An Automated Market Maker (AMM) is an overarching term used to describe a system where a trading function known as an invariant holds the amount of tokens it holds to some desired level. For a constant product invariant (x\*y=k), the balance of two reserves are equal in value. Making them well suited for the exchange of two assets without matching. Hence, AMMs have been popularized as decentralized exchange venues called "DEXs" on a blockchain.
+An Automated Market Maker (AMM) is an overarching term used to describe an automated system that keeps a portfolio of assets weighted according to a desired strategy. For a constant product invariant where x \* y = k, the balance of two reserves are equal in value. Making them well suited for the exchange of two assets without matching. Hence, AMMs have been popularized as decentralized exchange venues called "DEXs" on a blockchain.
 
 ## What is a Liquidity Provider and LP share?&#x20;
 
