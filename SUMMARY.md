@@ -17,3 +17,9 @@
   * [Receipt Tokens](guide/providing-liquidity/receipt-tokens.md)
 * [Perpetual Options](guide/perpetual-options/README.md)
   * [Mint a Perpetual Option](guide/perpetual-options/mint-a-perpetual-option.md)
+
+***
+
+* [Discord](https://discord.gg/6Dtc49Dt4W)
+* [Twitter](https://twitter.com/numoen)
+* [Github](https://github.com/Numoen)
