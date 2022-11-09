@@ -24,9 +24,9 @@
 * [Numoen Core Invariant](guide/numoen-core-invariant/README.md)
   * [Pricing LP Tokens](guide/numoen-core-invariant/pricing-lp-tokens.md)
   * [Payoff Replication](guide/numoen-core-invariant/payoff-replication.md)
-  * [Numoen Core](guide/numoen-core-invariant/numoen-core.md)
 * [Numoen Registry](guide/numoen-registry.md)
 * [Numoen Core Periphery](guide/numoen-core-periphery.md)
+* [Numoen Core](guide/numoen-core.md)
 
 ***
 

@@ -1,2 +1,0 @@
-# Numoen Core
-

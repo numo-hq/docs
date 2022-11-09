@@ -22,4 +22,8 @@ To collateralize the LP share with the perpetual call option payoff, Numoen uses
 
 ## Why does my perpetual option token hold two assets?
 
-The perpetual option token is an LP share with two assets where the exposure on the speculative and the denomination is whatever the numeraire is.
+The perpetual option token is an LP share with two assets. Each LP share has a speculative asset and a numeraire which call a base. The squared exposure is put on the speculative but denominated in the base. &#x20;
+
+{% hint style="info" %}
+So for a BTC/USDC Numoen Option, the squared exposure falls on BTC but the funding is paid in USDC.&#x20;
+{% endhint %}
