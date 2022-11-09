@@ -26,7 +26,7 @@
   * [Payoff Replication](guide/numoen-core-invariant/payoff-replication.md)
 * [Numoen Registry](guide/numoen-registry.md)
 * [Numoen Core Periphery](guide/numoen-core-periphery.md)
-* [Numoen Core](guide/numoen-core.md)
+* [Numoen Core](guide/numoen-core-invariant/numoen-core.md)
 
 ***
 
