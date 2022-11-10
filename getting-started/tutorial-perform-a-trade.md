@@ -1,2 +1,0 @@
-# Tutorial: Perform a Trade
-
