@@ -30,3 +30,16 @@ Liquidity providers receive a share representing their deposit into the underlyi
 | uint256 | rewardPerLiquidityPaid |
 | uint256 | tokensOwed             |
 
+To construct the capped power payoff, the buyer of the Numoen options is borrowing a LP share and issuing debt with the speculative asset as the collateral. Now the portfolio value becomes:
+
+$$
+N(p)=
+    \begin{cases}
+        p^{2} & 0\le p\le p_{1}\\
+        2p*p_{1} -p_{1}^{2} & p > p_{1}
+    \end{cases}
+$$
+
+{% hint style="info" %}
+The payoff only replicates up to a statically set upper bound. Once this bound is met, the payoff becomes linear.&#x20;
+{% endhint %}

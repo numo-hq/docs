@@ -12,7 +12,7 @@
 ## Getting Started
 
 * [Wallets](getting-started/wallets.md)
-* [Tutorial: Preform a Trade](getting-started/tutorial-preform-a-trade.md)
+* [Tutorial: Preform a Trade](getting-started/tutorial-mint-a-perpetual-option.md)
 * [Tutorial: Providing Liquidity](getting-started/tutorial-providing-liquidity.md)
 * [Tutorial: Closing a Position](getting-started/tutorial-closing-position.md)
 
@@ -20,9 +20,9 @@
 
 * [Perpetual Options](guide/perpetual-options.md)
 * [Interest Rate](guide/interest-rate.md)
-* [Numoen Core Algorithm](guide/numoen-core-algorithm/README.md)
-  * [Pricing LP Tokens](guide/numoen-core-algorithm/pricing-lp-tokens.md)
-  * [Payoff Replication](guide/numoen-core-algorithm/payoff-replication.md)
+* [Numoen Core Algorithm](guide/numoen-core-invariant/README.md)
+  * [Pricing LP Tokens](guide/numoen-core-invariant/pricing-lp-tokens.md)
+  * [Payoff Replication](guide/numoen-core-invariant/payoff-replication.md)
 * [Numoen Registry](guide/numoen-registry.md)
 * [Numoen Core Periphery](guide/numoen-core-periphery.md)
 * [Numoen Core](guide/numoen-core-invariant/numoen-core.md)
