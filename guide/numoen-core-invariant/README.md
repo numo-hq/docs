@@ -12,6 +12,8 @@ $$
 
 This produces a payoff is quadratic and convex payoff if levered. Offering a payoff similar to a call option in traditional finance. Important to note, without leverage, this can be statically replicated to produce a concave payoff on a constant product curve within a bounded space.
 
+<figure><img src="../../.gitbook/assets/pnl.png" alt=""><figcaption><p>The yellow line illustrates the perpetual option (capped power) payoff</p></figcaption></figure>
+
 It has been shown that this results in a portfolio value with $$p$$ being the price of speculative asset in terms of base asset:
 
 $$
