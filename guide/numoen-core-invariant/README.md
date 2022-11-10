@@ -1,6 +1,6 @@
 # Numoen Core Algorithm
 
-Automated Market Makers (AMMs) utilize a trading function $$\varphi$$ as a generalized pricing algorithm for pooled liquidity. The purpose is to maintain the a desired state for two reserves that are provided by liquidity providers (LPs). But completely autonomously through the use of arbitrageurs. Therefore, an AMM can be thought of an automated portfolio manager where the payoff of the portfolio can be altered by changing the trading function. Using this insight, Numoen has implemented a trading function that allows for the creation of perpetual options.
+Automated Market Makers (AMMs) utilize a trading function $$\varphi$$ as a generalized pricing algorithm for pooled liquidity. The purpose is to maintain a set of reserves to some desired state completely autonomously through the use of arbitrageurs. Therefore, an AMM can be thought of an automated portfolio manager where the payoff of the portfolio can be altered by changing the trading function. Using this insight, Numoen has implemented a trading function that allows for the creation of perpetual options.
 
 ## Trading Function
 
