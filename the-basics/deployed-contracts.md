@@ -1,10 +1,10 @@
 # Deployed Contracts
 
-| Network        | Name                            | Address                                    |
-| -------------- | ------------------------------- | ------------------------------------------ |
-| Celo (Mainnet) | Numoen Lendengine (Numoen Core) | 0xF0c88240b6d25831dC5E8b542b65f198BAAEfA9F |
-| TBD            | TBD                             | TBD                                        |
-| TBD            | TBD                             | TBD                                        |
+| Network            | Name    | Address                                    |
+| ------------------ | ------- | ------------------------------------------ |
+| Arbitrum           | Factory | 0x010797814E619634c0A6bbaA9FaCa48FBD0D3E33 |
+| Goerli (Ethereum)  | Factory | 0x010797814E619634c0A6bbaA9FaCa48FBD0D3E33 |
+| TBD                | TBD     | TBD                                        |
 
 ****
 
