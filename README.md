@@ -14,6 +14,4 @@ Check the Frequently Asked Questions (FAQ) section for answers to the most commo
 
 Our application can be accessed at [app.numoen.com](http://app.numoen.com/)
 
-{% hint style="info" %}
-It is important to note that the technology is experimental and has NOT been audited by an independent third party.
-{% endhint %}
+The protocol has been audited by Certik.
