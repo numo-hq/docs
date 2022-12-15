@@ -2,7 +2,7 @@
 
 ### What is Numoen?
 
-Numoen is a protocol for creating leverage tokens by using a novel automated market maker (AMM). As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.
+Numoen is a protocol for creating leverage tokens on any market by using a novel automated market maker (AMM). As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.
 
 <figure><img src=".gitbook/assets/Group 87.png" alt=""><figcaption></figcaption></figure>
 
