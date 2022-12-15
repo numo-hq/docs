@@ -1,8 +1,8 @@
 # Numoen Document Hub
 
-### What is Numoen?&#x20;
+### What is Numoen?
 
-Numoen is the world's first permissionless options exchange. Enabling the automated liquidity provisioning and exchange of perpetual options directly on a blockchain. As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.&#x20;
+Numoen is a protocol for creating leverage tokens by using a novel automated market maker (AMM). As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.
 
 <figure><img src=".gitbook/assets/Group 87.png" alt=""><figcaption></figcaption></figure>
 

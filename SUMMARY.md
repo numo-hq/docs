@@ -2,30 +2,26 @@
 
 * [Numoen Document Hub](README.md)
 
+## Quick Start
+
+* [FAQ](quick-start/faq.md)
+* [Tutorial: Perform a Trade](quick-start/tutorial-mint-a-perpetual-option.md)
+* [Tutorial: Providing Liquidity](quick-start/tutorial-providing-liquidity.md)
+* [Resources](quick-start/resources.md)
+
 ## The Basics
 
-* [FAQ](the-basics/faq.md)
-* [Resources](the-basics/resources.md)
-* [Deployed Contracts](the-basics/deployed-contracts.md)
-* [Why Numoen?](the-basics/why-numoen.md)
+* [Introduction](the-basics/introduction.md)
+* [Example Use Cases](the-basics/example-use-cases.md)
+* [Liquidity Providing](the-basics/liquidity-providing.md)
+* [Leverage Tokens](the-basics/leverage-tokens.md)
+* [Funding Rates](the-basics/funding-rates.md)
+* [Numoen Manager](the-basics/numoen-manager.md)
 
-## Getting Started
+## Developers
 
-* [Wallets](getting-started/wallets.md)
-* [Tutorial: Preform a Trade](getting-started/tutorial-mint-a-perpetual-option.md)
-* [Tutorial: Providing Liquidity](getting-started/tutorial-providing-liquidity.md)
-* [Tutorial: Closing a Position](getting-started/tutorial-closing-position.md)
-
-## Guide
-
-* [Perpetual Options](guide/perpetual-options.md)
-* [Interest Rate](guide/interest-rate.md)
-* [Numoen Core Algorithm](guide/numoen-core-invariant/README.md)
-  * [Pricing LP Tokens](guide/numoen-core-invariant/pricing-lp-tokens.md)
-  * [Payoff Replication](guide/numoen-core-invariant/payoff-replication.md)
-* [Numoen Registry](guide/numoen-registry.md)
-* [Numoen Core Periphery](guide/numoen-core-periphery.md)
-* [Numoen Core](guide/numoen-core-invariant/numoen-core.md)
+* [Deployed Contracts](developers/deployed-contracts.md)
+* [SDK](developers/sdk.md)
 
 ***
 

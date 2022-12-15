@@ -1,2 +1,0 @@
-# Tutorial: Closing a Position
-
