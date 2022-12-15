@@ -10,7 +10,7 @@ Pick a speculative asset, and enter the amount.&#x20;
 2. Enter the amount desired for the speculative asset (ex. ETH)
 3. Check that you have a sufficient amount of base asset (ex. USDC, UNI)
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-30 at 2.11.01 PM (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-30 at 2.11.01 PM (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The swap module was autogenerate the correct LP share which is shown as the speculative asset with the "+" icon after (ex. ETH+).
