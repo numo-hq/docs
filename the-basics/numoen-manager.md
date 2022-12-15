@@ -4,8 +4,6 @@ description: Numoen Manager facilitates using the Numoen Core protocol.
 
 # Numoen Manager
 
-## Ad
-
 Numoen manager has basic features for safeguarding uses from stale transactions or slippage. Native tokens such as ETH are also wrapped.
 
 When using leverage tokens, extra steps must be done so that all assets are in collateral and that the position value is equivalent to the specified value.
@@ -24,5 +22,3 @@ When using leverage tokens, extra steps must be done so that all assets are in c
 3. Payback debt on Numoen
 4. Reclaim the collateral of the position
 5. Payback the flash loan and return extra collateral to the user
-
-## Ad

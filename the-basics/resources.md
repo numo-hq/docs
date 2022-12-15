@@ -2,7 +2,7 @@
 
 ### Whitepaper
 
-{% file src="../.gitbook/assets/numoen_whitepaper (2).pdf" %}
+{% file src="../.gitbook/assets/numoen_whitepaper (2) (1).pdf" %}
 
 ### Research Repository
 

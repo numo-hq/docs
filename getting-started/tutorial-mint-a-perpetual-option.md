@@ -1,4 +1,4 @@
-# Tutorial: Preform a Trade
+# Tutorial: Perform a Trade
 
 {% hint style="info" %}
 This section is subject to change with the release of V 1.0.0

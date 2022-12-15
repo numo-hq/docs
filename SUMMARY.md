@@ -4,10 +4,10 @@
 
 ## Quick Start
 
-* [FAQ](quick-start/faq.md)
-* [Tutorial: Perform a Trade](quick-start/tutorial-mint-a-perpetual-option.md)
-* [Tutorial: Providing Liquidity](quick-start/tutorial-providing-liquidity.md)
-* [Resources](quick-start/resources.md)
+* [FAQ](the-basics/faq.md)
+* [Tutorial: Perform a Trade](getting-started/tutorial-mint-a-perpetual-option.md)
+* [Tutorial: Providing Liquidity](getting-started/tutorial-providing-liquidity.md)
+* [Resources](the-basics/resources.md)
 
 ## The Basics
 
@@ -20,7 +20,7 @@
 
 ## Developers
 
-* [Deployed Contracts](developers/deployed-contracts.md)
+* [Deployed Contracts](the-basics/deployed-contracts.md)
 * [SDK](developers/sdk.md)
 
 ***
