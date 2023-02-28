@@ -2,7 +2,7 @@
 
 ### What is Numoen?
 
-Numoen is an application for interacting with the Power Market Maker Protocol (PMMP). Deployed as a set of smart contracts on the blockchain, PMMP is an automated liquidity provider for creating Power Tokens on any market. As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.
+Numoen is an application for interacting with the Power Market Maker Protocol (PMMP). Deployed as a set of smart contracts on the blockchain, PMMP is an automated liquidity provider for Power Tokens. Thereby enabling constant leverage on any market with no liquidations. As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.
 
 <figure><img src=".gitbook/assets/Group 87.png" alt=""><figcaption></figcaption></figure>
 
