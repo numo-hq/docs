@@ -31,7 +31,7 @@ It has been shown that portfolio values of all constant function automated marke
 The invariant used in the Numoen core protocol is taken from a [research paper by Angeris et al](https://arxiv.org/abs/2111.13740).&#x20;
 
 $$
-\varphi(R_{1}, R_{2}) = R_{1}-\left(p_{1}^{2}-\frac{1}{2}R_{2}\right)^{2}
+\varphi(R_{1}, R_{2}) = R_{1}-\left(p_{1}-\frac{1}{2}R_{2}\right)^{2}
 $$
 
 Where p1 represents the upper bound of the exchange rate. This results in a portfolio value of:&#x20;
