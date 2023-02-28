@@ -8,14 +8,14 @@ Numoen manager has basic features for safeguarding uses from stale transactions 
 
 When using leverage tokens, extra steps must be done so that all assets are in collateral and that the position value is equivalent to the specified value.
 
-## Minting a leverage token
+## Minting a Power Token
 
 1. Use a flash loan to borrow speculative tokens
 2. Use the flash loan + user funds to borrow LP tokens
 3. Unwrap LP token and sell the underlying tokens into speculative tokens
 4. Pay back the flash loan
 
-## Burning a leverage token
+## Burning a Power Token
 
 1. Use a flash loan to borrow the underlying tokens of the Numoen LP
 2. Mint the debt amount of LP tokens
