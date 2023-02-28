@@ -1,5 +1,5 @@
 ---
-description: Numoen Manager facilitates using the Numoen Core protocol.
+description: Numoen Manager facilitates the interaction with PMMP.
 ---
 
 # Numoen Manager
