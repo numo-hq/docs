@@ -14,7 +14,7 @@
 
 * [Introduction](the-basics/introduction.md)
 * [Example Use Cases](the-basics/example-use-cases.md)
-* [Liquidity Providing](the-basics/liquidity-providing.md)
+* [PMMP](the-basics/pmmp.md)
 * [Leverage Tokens](the-basics/leverage-tokens.md)
 * [Funding Rates](the-basics/funding-rates.md)
 * [Numoen Manager](the-basics/numoen-manager.md)

@@ -2,7 +2,7 @@
 
 ### What is Numoen?
 
-Numoen Core is a protocol for creating leverage tokens on any market by using a novel automated market maker (AMM). As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.
+Numoen is an application for interacting with the Power Market Maker Protocol (PMMP). Deployed as a set of smart contracts on the blockchain, PMMP is an automated liquidity provider for creating Power Tokens on any market. As a **fully autonomous protocol**, there are no admin functions and zero external dependencies. The core smart contracts are non-upgradable.
 
 <figure><img src=".gitbook/assets/Group 87.png" alt=""><figcaption></figcaption></figure>
 

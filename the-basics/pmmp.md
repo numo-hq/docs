@@ -1,10 +1,8 @@
 ---
-description: >-
-  Liquidity providing on Numoen is very similar to providing liquidity on
-  Uniswap V2.
+description: Power Market Maker Protocol
 ---
 
-# Liquidity Providing
+# PMMP
 
 ## Automated market makers
 
