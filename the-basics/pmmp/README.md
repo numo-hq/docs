@@ -20,7 +20,7 @@ A portfolio value gives the value of a LP share for a given exchange rate. The p
 
 It has been shown that portfolio values of all constant function automated market makers are nondecreasing, non-negative, and concave. This means that without external rewards, providing liquidity is always worse than holding the underlying tokens.
 
-<figure><img src="../.gitbook/assets/Uniswap V2 Porfolio Value (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Uniswap V2 Porfolio Value (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -48,7 +48,7 @@ One thing that is important to note that the two tokens are not interchangeable 
 
 Numoen separates the two tokens into a speculative token and a base token. In the example below, Ether is the speculative token and Marshall Rogan Inu is the base token.
 
-<figure><img src="../.gitbook/assets/Numoen Core Portfolio Value.png" alt=""><figcaption><p>The value of a Numoen LP position with p1 as 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Numoen Core Portfolio Value.png" alt=""><figcaption><p>The value of a Numoen LP position with p1 as 3</p></figcaption></figure>
 
 ## Lending LP tokens
 

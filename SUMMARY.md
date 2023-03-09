@@ -14,9 +14,9 @@
 
 * [Introduction](the-basics/introduction.md)
 * [Example Use Cases](the-basics/example-use-cases.md)
-* [PMMP](the-basics/pmmp.md)
+* [PMMP](the-basics/pmmp/README.md)
+  * [Funding Rates](the-basics/pmmp/funding-rates.md)
 * [Power Tokens](the-basics/power-tokens.md)
-* [Funding Rates](the-basics/funding-rates.md)
 * [Numoen Manager](the-basics/numoen-manager.md)
 
 ## Developers
