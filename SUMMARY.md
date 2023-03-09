@@ -7,6 +7,7 @@
 * [FAQ](the-basics/faq.md)
 * [Tutorial: Perform a Trade](getting-started/tutorial-mint-a-perpetual-option.md)
 * [Tutorial: Providing Liquidity](getting-started/tutorial-providing-liquidity.md)
+* [Tutorial: Create a Market](quick-start/tutorial-create-a-market.md)
 * [Resources](the-basics/resources.md)
 * [Disclaimer](quick-start/disclaimer.md)
 

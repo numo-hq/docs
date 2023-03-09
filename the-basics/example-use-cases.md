@@ -2,7 +2,11 @@
 
 ## Speculate
 
-If you think prices are going to change, Power Tokens offer a way to get a simplified leverage experience while also having asymmetric upside with capped downside with no liquidation risk.&#x20;
+If you think prices are going to change, Power Tokens offer a way to get a simplified leverage experience while also having asymmetric upside with capped downside with no liquidation risk.
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/assym bet.png" alt=""><figcaption></figcaption></figure>
 
 ## Earn
 
