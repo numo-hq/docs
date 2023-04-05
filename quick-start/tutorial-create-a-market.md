@@ -4,8 +4,11 @@ description: Create a market for any token pair.
 
 # Tutorial: Create a Market
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-07 at 5.16.31 PM.png" alt=""><figcaption></figcaption></figure>
+1. Select a token to short
+2. Select a token to short
+3. Select a bound
+4. Enter an amount
 
-To create a market, a trader would put in an asset they want to go long and another that denominates the token price. In the example above the user chooses to create a “long” MAGIC market, where the MAGIC token is priced in terms of ETH. One could also choose USDC for simplicity but ETH has been shown to have significantly more liquidity.
+<figure><img src="../.gitbook/assets/Screenshot 2023-04-05 at 10.43.30 AM.png" alt=""><figcaption></figcaption></figure>
 
 \

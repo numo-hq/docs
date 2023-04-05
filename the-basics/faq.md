@@ -10,11 +10,11 @@ A liquidity provider is a single party that rents out their capital to an AMM. I
 
 ## What is a replicating market maker?
 
-A replicating market maker is nothing different from an automated market maker, except for an innovation in deriving the invariant. Every invariant corresponds to a portfolio value that gives the value of a LP share for a given exchange rate. Traditionally, AMMs were designed with a given invariant and the portfolio value function is calculated from it. Replicating market makers start with a portfolio value that is "replicated" and the trading invariant is constructed from it. In this case the LP share of an AMM becomes a portfolio of assets that replicates a derivative payoff such as options.
+A replicating market maker is nothing different from an automated market maker, except for an innovation in deriving the trading invariant. Every invariant corresponds to a portfolio value that gives the value of a LP share for a given exchange rate. Traditionally, AMMs were designed with a given invariant and the portfolio value function is calculated from it. Replicating market makers start with a portfolio value that is "replicated" and the trading invariant is constructed from it. In this case the LP share of an AMM becomes a portfolio of assets that replicates a derivative payoff such as options.
 
-## What are perpetual options?
+## What are power perpetuals?
 
-Perpetual options are a combination of the perpetual future, the most traded crypto derivative, and the option, which is the most traded traditional derivative. The idea was introduced by Paradigm in [this Power Perp research paper](https://www.paradigm.xyz/2021/08/power-perpetuals). In short, they replicate a price^2 which is always better than 2x leverage for traders.
+Power perpetuals are a combination of the perpetual future, the most traded crypto derivative, and the option, which is the most traded traditional derivative. The idea was introduced by Paradigm in [this Power Perp research paper](https://www.paradigm.xyz/2021/08/power-perpetuals). In short, they replicate a price^2 which is always better than 2x leverage for traders.
 
 ## What are flash swaps?
 
@@ -23,7 +23,3 @@ Flash swaps and flash loans are a native financial transaction that is only avai
 ## Does Numoen have a token?
 
 No.
-
-{% hint style="info" %}
-So for a BTC/USDC Numoen Option, the squared exposure falls on BTC but the funding is paid in USDC.&#x20;
-{% endhint %}

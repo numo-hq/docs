@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Numoen Document Hub](README.md)
+* [Disclaimer](disclaimer.md)
+* [Resources](resources.md)
 
 ## Quick Start
 
@@ -8,22 +10,31 @@
 * [Tutorial: Perform a Trade](getting-started/tutorial-mint-a-perpetual-option.md)
 * [Tutorial: Providing Liquidity](getting-started/tutorial-providing-liquidity.md)
 * [Tutorial: Create a Market](quick-start/tutorial-create-a-market.md)
-* [Resources](the-basics/resources.md)
-* [Disclaimer](quick-start/disclaimer.md)
 
-## The Basics
+## Concepts
 
-* [Introduction](the-basics/introduction.md)
-* [Example Use Cases](the-basics/example-use-cases.md)
-* [PMMP](the-basics/pmmp/README.md)
-  * [Funding Rates](the-basics/pmmp/funding-rates.md)
-* [Power Tokens](the-basics/power-tokens.md)
-* [Numoen Manager](the-basics/numoen-manager.md)
+* [Power Tokens](concepts/power-tokens.md)
+* [Providing Liquidity](concepts/providing-liquidity.md)
+* [Liquid Staking Boost](concepts/liquid-staking-boost.md)
+* [Example Use Cases](concepts/example-use-cases.md)
 
-## Developers
+## Power Market Maker Protocol
 
-* [Deployed Contracts](the-basics/deployed-contracts.md)
-* [SDK](developers/sdk.md)
+* [Overview](power-market-maker-protocol/overview.md)
+* [Capped Power Invariant](power-market-maker-protocol/capped-power-invariant.md)
+* [Understanding Returns](power-market-maker-protocol/understanding-returns.md)
+* [Security](power-market-maker-protocol/security.md)
+* [Protocol Participants](power-market-maker-protocol/protocol-participants.md)
+* [Smart Contracts](power-market-maker-protocol/smart-contracts/README.md)
+  * [Factory](power-market-maker-protocol/smart-contracts/factory.md)
+  * [Pair](power-market-maker-protocol/smart-contracts/pair.md)
+  * [ImmutableState](power-market-maker-protocol/smart-contracts/immutablestate.md)
+  * [JumpRate](power-market-maker-protocol/smart-contracts/jumprate.md)
+  * [Lendgine](power-market-maker-protocol/smart-contracts/lendgine.md)
+  * [LendgineRouter](power-market-maker-protocol/smart-contracts/lendginerouter.md)
+  * [LiquidityManager](power-market-maker-protocol/smart-contracts/liquiditymanager.md)
+* [Liquid Staking Boost](power-market-maker-protocol/liquid-staking-boost.md)
+* [Deployed Contracts](power-market-maker-protocol/deployed-contracts.md)
 
 ***
 
