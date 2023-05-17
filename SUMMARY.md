@@ -7,6 +7,7 @@
 ## Quick Start
 
 * [FAQ](the-basics/faq.md)
+* [Hedging Uniswap V3](quick-start/hedging-uniswap-v3.md)
 * [Tutorial: Perform a Trade](getting-started/tutorial-mint-a-perpetual-option.md)
 * [Tutorial: Providing Liquidity](getting-started/tutorial-providing-liquidity.md)
 * [Tutorial: Create a Market](quick-start/tutorial-create-a-market.md)
