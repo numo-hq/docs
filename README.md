@@ -2,8 +2,7 @@
 
 ### What is Numoen?
 
-Numoen, an application for interacting with the Power Market Maker Protocol (PMMP), allows any user to hedge their Uniswap V3 LP position in three simple clicks.&#x20;
+Numoen is a fully decentralized and oracle-free options exchange that can support a market on any token.&#x20;
 
+All exchange is facilitated by the Power Market Maker Protocol (PMMP) for which Numoen is an application on. As a **fully autonomous protocol**, there are no admin functions and zero external dependencies and all non-upgradable smart contracts are hosted on the Ethereum Virtual Machine  without any trusted intermediaries.&#x20;
 
-
-PMMP is a suite of non-upgradable smart contracts that function without any trusted intermediaries. The protocol is designed for taking two underlying assets and creating a derivative asset with constant leverage, referred to as "Power Tokens". As a **fully autonomous protocol**, there are no admin functions and zero external dependencies.
