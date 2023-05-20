@@ -7,17 +7,17 @@
 ## Quick Start
 
 * [FAQ](the-basics/faq.md)
-* [Hedging Uniswap V3](quick-start/hedging-uniswap-v3.md)
+* [Providing Liquidity](quick-start/providing-liquidity.md)
 * [Tutorial: Perform a Trade](getting-started/tutorial-mint-a-perpetual-option.md)
 * [Tutorial: Providing Liquidity](getting-started/tutorial-providing-liquidity.md)
 * [Tutorial: Create a Market](quick-start/tutorial-create-a-market.md)
 
 ## Concepts
 
-* [Power Tokens](concepts/power-tokens.md)
-* [Providing Liquidity](concepts/providing-liquidity.md)
-* [Liquid Staking Boost](concepts/liquid-staking-boost.md)
 * [Example Use Cases](concepts/example-use-cases.md)
+* [Power Tokens](concepts/power-tokens.md)
+* [Hedging Uniswap V3](concepts/hedging-uniswap-v3.md)
+* [Liquid Staking Boost](concepts/liquid-staking-boost.md)
 
 ## Power Market Maker Protocol
 
