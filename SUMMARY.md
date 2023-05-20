@@ -35,7 +35,7 @@
   * [Lendgine](power-market-maker-protocol/smart-contracts/lendgine.md)
   * [LendgineRouter](power-market-maker-protocol/smart-contracts/lendginerouter.md)
   * [LiquidityManager](power-market-maker-protocol/smart-contracts/liquiditymanager.md)
-* [Liquid Staking Boost](power-market-maker-protocol/liquid-staking-boost.md)
+* [Staking PMMP](power-market-maker-protocol/staking-pmmp.md)
 * [Deployed Contracts](power-market-maker-protocol/deployed-contracts.md)
 
 ***
