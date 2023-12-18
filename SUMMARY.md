@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Numoen Document Hub](README.md)
+* [QuadMaker Document Hub](README.md)
 * [Disclaimer](disclaimer.md)
 * [Resources](resources.md)
 

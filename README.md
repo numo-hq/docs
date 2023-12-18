@@ -1,8 +1,6 @@
-# Numoen Document Hub
+# QuadMaker Document Hub
 
-### What is Numoen?
+### What is the QuadMaker?
 
-Numoen is a fully decentralized and oracle-free derivatives exchange that can support a liquidation-free leverage market on any token.&#x20;
-
-All exchange is facilitated by the Power Market Maker Protocol (PMMP) for which Numoen is an application on. As a **fully autonomous protocol**, PMMP has no admin functions, zero external dependencies, and all smart contracts are non-upgradable and hosted on the Ethereum Virtual Machine (EVM) without any trusted intermediaries.&#x20;
+QuadMaker is an automated market maker for quadratic perpetuals. As a **fully autonomous protocol**, QuadMaker has no admin functions, zero external dependencies, and all smart contracts are non-upgradable and hosted on the Ethereum Virtual Machine (EVM) without any trusted intermediaries.&#x20;
 
