@@ -1,6 +1,6 @@
 # Table of contents
 
-* [QuadMaker Document Hub](README.md)
+* [PowerMaker Document Hub](README.md)
 * [Disclaimer](disclaimer.md)
 * [Resources](resources.md)
 
@@ -14,29 +14,28 @@
 
 ## Concepts
 
-* [Options 101](concepts/options-101.md)
-* [Example Use Cases](concepts/example-use-cases.md)
-* [Power Tokens](concepts/power-tokens.md)
-* [Hedging Uniswap V3](quick-start/hedging-uniswap-v3.md)
-* [Liquid Staking Boost](concepts/liquid-staking-boost.md)
+* [Power Perpetuals](concepts/power-perpetuals/README.md)
+  * [ERC-20 vault](concepts/power-perpetuals/erc-20-vault.md)
+* [Example Use Cases](concepts/example-use-cases/README.md)
+  * [Hedging Uniswap V3](concepts/example-use-cases/hedging-uniswap-v3.md)
 
-## Power Market Maker Protocol
+## Protocol
 
-* [Overview](power-market-maker-protocol/overview.md)
-* [Capped Power Invariant](power-market-maker-protocol/capped-power-invariant.md)
-* [Understanding Returns](power-market-maker-protocol/understanding-returns.md)
-* [Security](power-market-maker-protocol/security.md)
-* [Protocol Participants](power-market-maker-protocol/protocol-participants.md)
-* [Smart Contracts](power-market-maker-protocol/smart-contracts/README.md)
-  * [Factory](power-market-maker-protocol/smart-contracts/factory.md)
-  * [Pair](power-market-maker-protocol/smart-contracts/pair.md)
-  * [ImmutableState](power-market-maker-protocol/smart-contracts/immutablestate.md)
-  * [JumpRate](power-market-maker-protocol/smart-contracts/jumprate.md)
-  * [Lendgine](power-market-maker-protocol/smart-contracts/lendgine.md)
-  * [LendgineRouter](power-market-maker-protocol/smart-contracts/lendginerouter.md)
-  * [LiquidityManager](power-market-maker-protocol/smart-contracts/liquiditymanager.md)
-* [Staking PMMP](power-market-maker-protocol/staking-pmmp.md)
-* [Deployed Contracts](power-market-maker-protocol/deployed-contracts.md)
+* [Overview](protocol/overview.md)
+* [Capped Power Invariant](protocol/capped-power-invariant.md)
+* [Understanding Returns](protocol/understanding-returns.md)
+* [Security](protocol/security.md)
+* [Protocol Participants](protocol/protocol-participants.md)
+* [Smart Contracts](protocol/smart-contracts/README.md)
+  * [Factory](protocol/smart-contracts/factory.md)
+  * [Pair](protocol/smart-contracts/pair.md)
+  * [ImmutableState](protocol/smart-contracts/immutablestate.md)
+  * [JumpRate](protocol/smart-contracts/jumprate.md)
+  * [Lendgine](protocol/smart-contracts/lendgine.md)
+  * [LendgineRouter](protocol/smart-contracts/lendginerouter.md)
+  * [LiquidityManager](protocol/smart-contracts/liquiditymanager.md)
+* [Staking PMMP](protocol/staking-pmmp.md)
+* [Deployed Contracts](protocol/deployed-contracts.md)
 
 ***
 

@@ -4,7 +4,7 @@ Numoen has created first ever, easy to use product for hedging Uniswap LP loss c
 
 As mentioned in the article, the ability to hedge every single Uniswap LP comes from the innovation of the Power Market Maker Protocol (PMMP). This is a fully decentralized AMM for minting Power Tokens which are option-like derivatives on any token that have **Positive Gamma**.
 
-## Hedging Process <a href="#41d5" id="41d5"></a>
+## Hedging Process <a href="#id-41d5" id="id-41d5"></a>
 
 Hedging the impermanent loss of a Uniswap LP simply entails canceling out the negative gamma of a LP share with the positive gamma of a Power Token.
 
@@ -60,14 +60,14 @@ Which is the gamma of Uniswap over the negative gamma of a Power Token. Therefor
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:445/0*m2xBnXQ1hr0ZovdP" alt="" height="32" width="247"><figcaption></figcaption></figure>
 
-## **Total Returns** <a href="#692d" id="692d"></a>
+## **Total Returns** <a href="#id-692d" id="id-692d"></a>
 
 After analyzing the on-chain data for the 7 days `block.timestamp` we can chart the value of the hedged portfolio versus a non-hedge portfolio or “LP Value.” We show that the **hedge portfolio \[ETH/USDC LP] consistently outperforms across wide and tight bounds**.
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 \

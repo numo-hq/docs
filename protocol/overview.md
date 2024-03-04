@@ -32,4 +32,4 @@ $$
 
 So using the most recent data on the most liquid pairs on the .3% fee tier, we estimate 105.1% to be the average implied volatility and used that to determine our parameters.
 
-<table><thead><tr><th>Variable</th><th>Value</th><th data-hidden></th></tr></thead><tbody><tr><td>Kink</td><td>.8</td><td></td></tr><tr><td>Multiplier</td><td>1.375</td><td></td></tr><tr><td>Jump multiplier</td><td>44.5</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="388">Variable</th><th width="115">Value</th><th data-hidden></th></tr></thead><tbody><tr><td>Kink</td><td>.8</td><td></td></tr><tr><td>Multiplier</td><td>1.375</td><td></td></tr><tr><td>Jump multiplier</td><td>44.5</td><td></td></tr></tbody></table>

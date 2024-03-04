@@ -1,8 +1,8 @@
-# Power Tokens
+# ERC-20 vault
 
 ## Basics
 
-Power Tokens are an ERC20 token with constant 2x leverage. This tracks price between two underlying assets to the power of two. Because the leverage is constantly rebalancing, Power Tokens can never be liquidated. Power tokens are not traded, they are simply minted or burned, which will be explore further in a different section.
+Each power perpetual is an ERC20 token with constant 2x leverage. In many ways you can view it as a wrapped option strategy that tracks the price between two underlying assets and raises it to the power of two. Because the leverage is constantly rebalancing, Power Tokens can never be liquidated. Power tokens are not traded, they are simply minted or burned, which will be explore further in a different section.
 
 ## Why would I want a Power Token?
 
