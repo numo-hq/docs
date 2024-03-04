@@ -2,6 +2,6 @@
 description: Explaining on-chain options
 ---
 
-# Options 101
+# Power Perpetuals
 
 Due to liquidity constraints and need for complex pricing models, Numoen is built on a protocol inspired by the insight that LP shares of constant function market makers (CFMM) are in fact replicated option portfolios.&#x20;

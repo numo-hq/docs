@@ -6,7 +6,7 @@ If you think prices are going to change, Power Tokens offer a way to get a simpl
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/assym bet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/assym bet.png" alt=""><figcaption></figcaption></figure>
 
 ## Earn
 
