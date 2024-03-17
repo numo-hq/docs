@@ -12,7 +12,7 @@
 event Mint(address indexed from, address indexed lendgine, uint256 collateral, uint256 shares, address indexed to);
 ```
 
-Emitted when a Power Token is minted using this router.
+Emitted when a power perpetual token (PPT) is minted using this router.
 
 ### Burn
 
@@ -20,7 +20,7 @@ Emitted when a Power Token is minted using this router.
 event Burn(address indexed from, address indexed lendgine, uint256 collateral, uint256 shares, address indexed to);
 ```
 
-Emitted when a Power Token is burned using this router.
+Emitted when a PPT is burned using this router.
 
 ## Errors
 
@@ -38,7 +38,7 @@ Occurs when a transaction is processed later than the deadline specified.
 error ValidationError();
 ```
 
-Occurs when a callback invocation is not valid because it is not called by a lendgine deployed by the PMMP factory.
+Occurs when a callback invocation is not valid because it is not called by a lendgine deployed by the PowerMaker factory.
 
 ### AmountError
 
@@ -56,7 +56,7 @@ Occurs when output amounts aren't sufficient according to the specified minimums
 function factory() external view returns (address);
 ```
 
-Returns the address of the PMMP factory this router is connected to.
+Returns the address of the PowerMaker factory this router is connected to.
 
 ### uniswapV2Factory
 
@@ -90,7 +90,7 @@ Returns the address of the Wrapped Ether contract.
 function mint(MintParams calldata params) external payable returns(uint256 shares);
 ```
 
-Mints Power Tokens with safety checks and obtains maximum leverage by swapping on an external market.
+Mints power perpetual tokens (PPT) with safety checks and obtains maximum leverage by swapping on an external market.
 
 ### burn
 
@@ -98,4 +98,4 @@ Mints Power Tokens with safety checks and obtains maximum leverage by swapping o
 function burn(BurnParams calldata params) external payable returns (uint256 amount);
 ```
 
-Burns Power Tokens with safety checks. Mints the required liquidity that is to be paid back and then unlocks the remaining collateral.
+Burns PPT with safety checks. Mints the required liquidity that is to be paid back and then unlocks the remaining collateral.
