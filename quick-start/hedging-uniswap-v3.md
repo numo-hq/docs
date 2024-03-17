@@ -1,12 +1,10 @@
 # Hedging Uniswap V3
 
-Numoen has created first ever, easy to use product for hedging Uniswap LP loss called **Numoen Nest**. You can read more about it [here](https://medium.com/numoen/death-to-impermanent-loss-introducing-numoen-nest-1c1a2b3fba84).
-
-As mentioned in the article, the ability to hedge every single Uniswap LP comes from the innovation of the Power Market Maker Protocol (PMMP). This is a fully decentralized AMM for minting Power Tokens which are option-like derivatives on any token that have **Positive Gamma**.
+PowerMaker enables anyone the ability to hedge impermanent loss on Uniswap. This is possible by minting a power perpetual through the PowerMaker AMM and matching the **positive gamma** with negative gamma of a Uniswap LP share.&#x20;
 
 ## Hedging Process <a href="#id-41d5" id="id-41d5"></a>
 
-Hedging the impermanent loss of a Uniswap LP simply entails canceling out the negative gamma of a LP share with the positive gamma of a Power Token.
+Hedging the impermanent loss of a Uniswap LP simply entails canceling out the negative gamma of a LP share with the positive gamma of a power perpetual.
 
 For the example above we take a _ETH/USDC LP_ position with the following parameters:
 
@@ -22,9 +20,9 @@ Upper Bound: $2000
 
 So to hedge the following Uniswap LP position we:
 
-1. **Calculate the price of a Power Token**
+1. **Calculate the price of a Power Perpetual Token**
 
-Becuase every Power Token (PT) is a **quadratic contract,** we know that it will square the price of an underlying asset, “squared leverage.” In fact, we also know that the **gamma will always be a constant 2** (this useful for the next step).
+Becuase every Power Perpetual Token (PPT) is a **quadratic contract.** We know that it will square the price of an underlying asset, “squared leverage.” In fact, we also know that the **gamma will always be a constant 2** (this useful for the next step).
 
 > The price of a PT = (Price of the underlying asset)².
 >
