@@ -16,7 +16,7 @@ description: Inherits pair, jump rate, and immutable state.
 event Mint(address indexed sender, uint256 collateral, uint256 shares, uint256 liquidity, address indexed to);
 ```
 
-Emitted when a Power token is minted.
+Emitted when a power perpetual token (PPT) is minted.
 
 ### Burn
 
@@ -24,7 +24,7 @@ Emitted when a Power token is minted.
 event Burn(address indexed sender, uint256 collateral, uint256 shares, uint256 liquidity, address indexed to);
 ```
 
-Emitted when a Power Token is burned.
+Emitted when a PPT is burned.
 
 ### Deposit
 
@@ -124,7 +124,7 @@ Returns the total amount of liquidity positions minted multiplied by 1 ether.
 function totalLiquidityBorrowed() external view returns (uint256);
 ```
 
-Returns the total amount of liquidity that is currently borrowed by Power Token holders multiplied by 1 ether.
+Returns the total amount of liquidity that is currently borrowed by PPT holders multiplied by 1 ether.
 
 ### rewardPerPositionStored
 
@@ -148,7 +148,7 @@ Returns the last unix timestamp that the interest was accrued at.
 function convertLiquidityToShare(uint256 liquidity) external view returns (uint256);
 ```
 
-Converts amount of liquidity borrowed to shares of Power Tokens.
+Converts amount of liquidity borrowed to shares of power perpetual tokens (PPT).
 
 ### convertShareToLiquidity
 
@@ -156,7 +156,7 @@ Converts amount of liquidity borrowed to shares of Power Tokens.
 function convertShareToLiquidity(uint256 shares) external view returns (uint256);
 ```
 
-Converts shares of Power Tokens to amount of liquidity borrowed.
+Converts shares of PPTs to amount of liquidity borrowed.
 
 ### convertCollateralToLiquidity
 
@@ -182,7 +182,7 @@ Converts liquidity to collateral.
 function mint(address to, uint256 collateral, bytes calldata data) external returns (uint256 shares);
 ```
 
-Mints a Power Token by providing token1 as collateral and borrowing a proportional amount of liquidity.
+Mints a PPT by providing token1 as collateral and borrowing a proportional amount of liquidity.
 
 ### burn
 
@@ -190,7 +190,7 @@ Mints a Power Token by providing token1 as collateral and borrowing a proportion
 function burn(address to, bytes calldata data) external returns (uint256 collateral);
 ```
 
-Burns a Power Token by minting the required liquidity and unlocking the collateral. The amount of Power Token shares to be burned is specified by transferring that amount to this contract before calling it.
+Burns a power perpetual token (PPT) by minting the required liquidity and unlocking the collateral. The amount of PPT shares to be burned is specified by transferring that amount to this contract before calling it.
 
 ### deposit
 
