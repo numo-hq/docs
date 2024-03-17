@@ -18,7 +18,7 @@ The factory is responsible for create and maintain references to lendgines. It o
 
 [Reference documentation](./#pair)
 
-Pairs implement the accounting logic for the underlying automated market maker behind PMMP. This contract is abstract, meaning that it is not directly deployable. Instead, it is inherited by a lendgine. Pair is functionally the same as a UniswapV2 pool, with mint, burn, and swap functionality, except that the invariant is the capped power invariant instead of the constant product invariant.
+Pairs implement the accounting logic for the underlying automated market maker behind PowerMaker. This contract is abstract, meaning that it is not directly deployable. Instead, it is inherited by a lendgine. Pair is functionally the same as a UniswapV2 pool, with mint, burn, and swap functionality, except that the invariant is the capped power invariant instead of the constant product invariant.
 
 ### Lendgine
 
@@ -28,7 +28,7 @@ Lendgines have the primary purpose of allowing for borrowing the liquidity provi
 
 ## Periphery
 
-The periphery contracts consists of a lendgine router and a liquidity manager, both meant to make interacting with core contracts safer and more user friendly. Because of PMMP's permission-less nature, periphery contracts have no special privileges with core and are completely replaceable by other periphery contracts with possible a different set of features.
+The periphery contracts consists of a lendgine router and a liquidity manager, both meant to make interacting with core contracts safer and more user friendly. Because of PowerMaker's permission-less nature, periphery contracts have no special privileges with core and are completely replaceable by other periphery contracts with possible a different set of features.
 
 ### LendgineRouter
 
