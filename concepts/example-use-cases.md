@@ -10,7 +10,7 @@ If you think prices are going to change, Power Tokens offer a way to get a simpl
 
 ## Earn
 
-If you think prices are going to stay the same, provide liquidity to PMMP via the Numoen application to earn interest on your deposits. Users earn directly from the funding paid by Power Token holders. &#x20;
+If you think prices are going to stay the same, provide liquidity to PowerMaker via the Numo application to earn interest on your deposits. Users earn directly from the funding paid by Power Token holders. &#x20;
 
 ## Hedge
 
