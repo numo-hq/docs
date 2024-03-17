@@ -34,7 +34,7 @@ The periphery contracts consists of a lendgine router and a liquidity manager, b
 
 [Reference documentation](./#lendginerouter)
 
-The lendgine router allows for easy minting and burning of Power Tokens. It contains logic for general actions such as handling WETH, supporting EIP-2612 tokens, slippage checks, and staleness checks. More specifically, the lendgine router allows for maximum leverage on Power Tokens by facilitating the borrowing of liquidity, and selling the underlying tokens into more collateral to borrow more liquidity.
+The lendgine router allows for easy minting and burning of Power Perpetual Tokens. It contains logic for general actions such as handling WETH, supporting EIP-2612 tokens, slippage checks, and staleness checks. More specifically, the lendgine router allows for maximum leverage on Power Perpetual Tokens by facilitating the borrowing of liquidity, and selling the underlying tokens into more collateral to borrow more liquidity.
 
 ### LiquidityManager
 
