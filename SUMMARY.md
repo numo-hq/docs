@@ -15,7 +15,7 @@
 ## Concepts
 
 * [Power Perpetuals](concepts/options-101.md)
-  * [Power Perpetual ERC-20 Token](concepts/power-tokens.md)
+  * [PPT - Power Perpetual Token](concepts/power-perpetuals/ppt-power-perpetual-token.md)
 * [Example Use Cases](concepts/example-use-cases.md)
   * [Hedging Uniswap V3](quick-start/hedging-uniswap-v3.md)
 
