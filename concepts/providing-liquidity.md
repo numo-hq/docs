@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Each underlying market on PMMP contains an underlying liquidity pool, a set of two reserves that accepts or rejects trades based on a trading invariant. The price exposed by the pool depends on the balances of the reserves. When liquidity providers add liquidity to a pool, they deposits tokens proportional to the current price.
+Each underlying market on PowerMaker contains an underlying liquidity pool which are a set of two reserves that accepts or rejects trades based on a trading invariant. The price exposed by the pool depends on the balances of the reserves. When liquidity providers add liquidity to a pool, they deposits tokens proportional to the current price.
 
 ## Pool tokens
 
