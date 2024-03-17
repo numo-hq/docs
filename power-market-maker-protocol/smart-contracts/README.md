@@ -2,7 +2,7 @@
 
 [Source code](https://github.com/numoen/pmmp)
 
-PMMP is a system of two sets of smart contracts. Core contracts implement critical accounting logic. Periphery contracts interact with core contracts with some extra safety checks and ease-of-use functionality.
+PowerMaker is a system of two sets of smart contracts. Core contracts implement critical accounting logic. Periphery contracts interact with core contracts with some extra safety checks and ease-of-use functionality.
 
 ## Core
 
