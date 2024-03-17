@@ -10,9 +10,9 @@ It has been shown that portfolio values of all constant function automated marke
 
 
 
-## PMMP portfolio values
+## PowerMaker portfolio values
 
-The portfolio value of a PMMP liquidity position is shown below:
+The portfolio value of a PowerMaker liquidity position is shown below:
 
 $$
 V(p)=
