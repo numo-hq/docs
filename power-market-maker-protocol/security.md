@@ -1,6 +1,6 @@
 # Security
 
-PowerMaker has undergone two successful audits and will go through a third.&#x20;
+PowerMaker has undergone two successful audits..&#x20;
 
 In its beta form, PowerMaker has been audited by [Certik. ](https://skynet.certik.com/projects/numoen)
 

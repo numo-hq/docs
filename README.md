@@ -10,5 +10,5 @@ As a **fully autonomous protocol**, PowerMaker has no admin functions, zero exte
 
 ## Where can I access the PowerMaker protocol?
 
-PowerMaker is source available and hosted on Arbitrum. Therefore any public functions are exposed and can be called by an external program. For the most user-friendly experience, PowerMaker can accessed on the web application [numotrade.com](http://numotrade.com/).
+PowerMaker is source available and hosted on Arbitrum. Therefore any public functions are exposed and can be called by an external program. For the most user-friendly experience, PowerMaker can accessed on the web application numoen.com.
 
